@@ -8,4 +8,5 @@ int main(int argc, char *argv[]) {
   // TODO: extract the three command-line arguments
   // TODO: iterate for a number of times driven
   // by the looping maximum bound given by user
+  // TODO: make sure that the program output matches the README file
 }
