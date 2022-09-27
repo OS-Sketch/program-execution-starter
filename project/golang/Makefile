@@ -9,5 +9,5 @@ bin:
 unbounded-cpu: unbounded-cpu.go bin
 	go build --o bin unbounded-cpu.go
 
-bounded-cpu: unbounded-cpu.go bin
+bounded-cpu: bounded-cpu.go bin
 	go build --o bin bounded-cpu.go
